@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dagger-02/hero_ghost_ghillie_cloth_fibers_3_1"
+	"$bumpmap" "models/Dagger-02/grinch_ghillie_cloth_fibers_n"
+	"$translucent" "1"
+	"$nocull" "1"
+}

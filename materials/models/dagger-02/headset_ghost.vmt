@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dagger-02/headset_ghost_black"
+//	"$color2"		"[ 0.5 0.5 0.5 ]"
+}

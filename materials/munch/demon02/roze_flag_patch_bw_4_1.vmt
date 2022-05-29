@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "munch/demon02/roze_flag_patch_bw_4_1"
+
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.1"
+	"$PhongExponent"            "1"
+	"$PhongFresnelRanges"	    "[0.3 1 4]"
+	"$PhongDisableHalfLambert"  "1"
+	"$NormalmapAlphaPhongMask"  "1"
+
+	"$Rimlight" 			    "1"
+	"$Rimlightboost"	"0.1"
+	"$Rimlightexponent"	"1"
+	"$Rimmask"	"1"
+
+	"$Model"                    "1"
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "0"
+	"$AmbientOcclusion" 	    "1"
+	"$NoCull" 				    "0"
+	"$SurfaceProp" 			    "flesh"
+}

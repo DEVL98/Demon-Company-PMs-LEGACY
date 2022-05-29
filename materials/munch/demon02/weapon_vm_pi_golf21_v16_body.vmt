@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"munch/demon02/g21_strike_body"
+	"$bumpmap"					"munch/demon02/g21_strike_body_n"
+
+	"$phong"	"1"
+	"$phongexponent"	"3"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.3"
+	"$phongfresnelranges"	"[1 1 1]"
+        "$phongdisablehalflambert"  "1"
+
+        "$halflambert"                 "0"
+        "$nodecal"                     "0"
+        "$ambientocclusion"         "1"
+}

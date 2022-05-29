@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dagger-02/wyatt_pistol_holster_6_1"
+	"$color2"		"[ 0.75 0.75 0.75 ]"
+}

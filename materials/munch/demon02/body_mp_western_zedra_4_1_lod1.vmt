@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"munch/demon02/crye_airframe"
+	"$bumpmap" 					"munch/demon02/crye_airframe_n"
+
+//Phong
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.1" 	//< Change as needed
+	"$PhongExponent"            "1" 	//< $PhongExponent overrides $PhongExponentTexture !!!
+	"$PhongFresnelRanges"	    "[0.3 1 4]"
+	"$PhongAlbedoTint"          "0"
+	"$PhongDisableHalfLambert"  "1"
+	"$NormalmapAlphaPhongMask"  "0"
+
+//Rimlight
+	"$Rimlight" 			    "1"
+	"$Rimlightboost"			"0.1"
+	"$Rimlightexponent"			"1"
+	"$Rimmask"					"1"
+
+//Other
+	"$Color2"					"{ 150 150 150 }"	//< RGB colors
+	"$Model"                    "1"
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "0"
+	"$AmbientOcclusion" 	    "1"
+	"$NoCull" 				    "0"
+	"$SurfaceProp" 			    "flesh"
+	"$CloakPassEnabled" 		"1" 	//< For SFM and TF2
+}

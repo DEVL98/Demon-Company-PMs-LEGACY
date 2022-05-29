@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dagger-02/parts_chest_rig_ghost_a_woodland"
+	"$color2"		"[ 0.5 0.5 0.5 ]"
+}

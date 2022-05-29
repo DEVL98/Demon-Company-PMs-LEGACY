@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dagger-02/hero_ghost_grenade_pouch_3_1"
+	"$color2"		"[ 0.5 0.5 0.5 ]"
+}

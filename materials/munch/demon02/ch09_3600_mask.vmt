@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "munch/demon02/ch09_3600_mask_color"
+	"$bumpmap"     "munch/demon02/ch09_3600_mask_norm"
+//	"$phongexponenttexture"     "munch/demon02/ch09_3600_mask_exp"
+//	"$lightwarptexture"			"models\weapons\tfa_eft\lightwarps\clothes_wrp2"
+
+
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.1"
+//	"$PhongExponent"            "1"
+	"$PhongFresnelRanges"	    "[0.3 1 4]"
+	"$PhongDisableHalfLambert"  "1"
+	"$NormalmapAlphaPhongMask"  "1"
+
+	"$Rimlight" 			    "1"
+	"$Rimlightboost"	"0.1"
+	"$Rimlightexponent"	"1"
+	"$Rimmask"	"1"
+
+	"$Model"                    "1"
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "0"
+	"$AmbientOcclusion" 	    "1"
+	"$NoCull" 				    "0"
+	"$SurfaceProp" 			    "flesh"
+}

@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "munch/demon04/gasmask_a_lens"
+    "$bumpmap"     "munch/demon04/opforce_juggernaut_visor_n"	
+	"$normalmapalphaenvmapmask" "1"
+
+	"$envmaptint"	"[1 1 1]"
+	"$envmapfresnel"	"1"
+
+//Phong
+	"$Phong"				    "1"
+	"$PhongBoost"               "15"
+	"$PhongExponent"            "100" 
+	"$PhongFresnelRanges"	    "[0.3 1 4]"
+	"$PhongAlbedoTint"          "0"
+	"$PhongDisableHalfLambert"  "1"
+	"$NormalmapAlphaPhongMask"  "1"
+
+//Other
+	"$Model"                    "1"
+	"$AmbientOcclusion" 	    "1"
+	"$SurfaceProp" 			    "flesh"
+}
+
+
+
+ 

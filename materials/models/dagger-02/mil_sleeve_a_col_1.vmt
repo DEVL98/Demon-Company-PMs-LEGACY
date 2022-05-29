@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+//Basic
+	"$BaseTexture" 			    "models/dagger-02/mil_sleeve_a_col_multicam_blk"
+">=dx90"
+{
+//	"$BumpMap" 				    "viper/mw/rigs/sleeves/milsim_western/viewmodel_arms_d_n"
+//	"$PhongExponentTexture"     "viper/mw/rigs/sleeves/milsim_western/viewmodel_arms_d_m"
+
+//Warp
+//	"$LightWarpTexture"         "models/arachnit/shared/clothes_wrp2"		//< Change as needed
+
+//Phong
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.55" 	//< Change as needed
+//	"$PhongExponent"            "15" 	//< $PhongExponent overrides $PhongExponentTexture !!!
+	"$PhongFresnelRanges"	    "[0.3 1 4]"
+	"$PhongAlbedoTint"          "0"
+	"$PhongDisableHalfLambert"  "1"
+}
+
+//Other
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "0"
+	"$NoCull" 				    "0"
+//	"$BlendTintByBaseAlpha"     "1"
+	"$Color2"					"{ 215 215 215 }"	//< RGB colors
+}

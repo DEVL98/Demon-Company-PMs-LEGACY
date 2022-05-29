@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\demons\mawl\Light_D"
+	"$bumpmap" "models\weapons\demons\mawl\Light_N"
+	"$phongexponenttexture" "models\weapons\demons\mawl\Light_G"
+	
+	$envmap "env_cubemap"
+	$basemapalphaenvmapmask 1
+	$envmaptint "[0.70 0.70 0.70]"
+	$envmapfresnel 1
+	$envmaplightscale 1
+
+	$phong 1
+	$phongfresnelranges "[0.2 0.5 3]"
+	$phongalbedotint 1
+	$phongboost 19
+
+	$phongalbedoboost 170
+	
+	"$nocull" "1"
+}

@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+//Basic
+	"$BaseTexture" 			    "munch/demon02/Tanake_Belt_D"
+	"$BumpMap" 				    "munch/demon02/Tanake_Belt_N"
+	"$PhongExponentTexture"     "munch/demon02/Tanake_Belt_S"
+
+//Warp
+	"$LightWarpTexture"         "models\weapons\tfa_eft\lightwarps\clothes_wrp2"		//< Change as needed
+
+//Phong
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.1" 	//< Change as needed
+	//"$PhongExponent"            "15" 	//< $PhongExponent overrides $PhongExponentTexture !!!
+
+//Rimlight
+	"$Rimlight" 			    "0"
+
+//Other
+	"$Model"                    "1"
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "0"
+	"$AmbientOcclusion" 	    "1"
+	"$NoCull" 				    "0"
+	"$SurfaceProp" 			    "flesh"
+//	"$BlendTintByBaseAlpha"     "1"
+//	"$Color2"					"{ 255 255 255 }"	//< RGB colors
+	"$CloakPassEnabled" 		"1" 	//< For SFM and TF2
+//	"$CloakColorTint" 			"[0.4 0.5 1]" // BLU
+//	"$CloakColorTint" 			"[1 0.5 0.4]" // RED
+}

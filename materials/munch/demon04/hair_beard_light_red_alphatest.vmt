@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "munch/demon04/hair_beard_red_alphatest"
+	"$translucent" 1
+}

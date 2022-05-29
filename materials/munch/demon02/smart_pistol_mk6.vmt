@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+"$basetexture" "munch/demon02/Smart_Pistol_MK6_d"
+"$bumpmap" "munch/demon02/Smart_Pistol_MK6_n"
+"$PhongExponentTexture" "munch/demon02/Smart_Pistol_MK6_e"
+"$lightwarptexture"			"models\weapons\tfa_eft\phongwarps\phongwarp_metal"
+"$color2"	"[0.5 0.5 0.5]"
+"$blendTintByBaseAlpha"	"1"
+"$basemapalphaphongmask" "1"
+
+$detail						"munch/demon02/Smart_Pistol_MK6_si"
+$detailscale				1
+$detailblendfactor			1
+$detailblendmode			5
+
+//"$envmap"	"env_cubemap"
+"$envmaptint"	"[ .08 .08 .08 ]"
+"$envmapfresnel" "1"
+"$envmapFresnelMinMaxExp" "[10 40 .4]"
+
+"$phong"	"1"
+"$phongboost"	"1"
+"$phongfresnelranges"	"[0.25 0.5 1]"
+"$nocull"	"1"
+}

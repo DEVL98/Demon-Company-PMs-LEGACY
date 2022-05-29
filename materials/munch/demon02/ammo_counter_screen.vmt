@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"munch/demon02/error"
+	"$lightwarptexture"			"models\weapons\tfa_eft\phongwarps\phongwarp_metal"
+	"$color2"					"[0 0 0]"
+
+
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.1"
+	"$PhongExponent"            "15"
+
+	"$Rimlight" 			    "1"
+	"$Rimlightboost"	"0.1"
+	"$Rimlightexponent"	"1"
+	"$Rimmask"	"1"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "munch/demon03/stencil_patch_urban_k17"
+	"$translucent" 1
+}

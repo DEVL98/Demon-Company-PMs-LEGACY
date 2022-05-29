@@ -1,0 +1,35 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "munch/demon03/mp_eastern_kotus_1_1_ballistic_face_armor"
+	"$bumpmap" "munch/demon03/mp_eastern_kotus_1_1_ballistic_face_armor"
+
+	//Phong
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.1" 	//< Change as needed
+	"$PhongExponent"            "5" 	//< $PhongExponent overrides $PhongExponentTexture !!!
+	"$PhongFresnelRanges"	    "[0.3 1 4]"
+	"$PhongTint"	    "[0.125 0.125 0.125]"
+	"$PhongAlbedoTint"          "0"
+	"$PhongDisableHalfLambert"  "1"
+	"$NormalmapAlphaPhongMask"  "1"
+
+//Rimlight
+	"$Rimlight" 			    "0"
+	"$Rimlightboost"	"0.1"
+	"$Rimlightexponent"	"1"
+	"$Rimmask"	"1"
+
+//Other
+	"$Model"                    "1"
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "0"
+	"$AmbientOcclusion" 	    "1"
+	"$NoCull" 				    "0"
+	"$SurfaceProp" 			    "flesh"
+//	"$BlendTintByBaseAlpha"     "1"
+	"$Color2"					"{ 255 255 255 }"	//< RGB colors
+	"$CloakPassEnabled" 		"1" 	//< For SFM and TF2
+//	"$CloakColorTint" 			"[0.4 0.5 1]" // BLU
+//	"$CloakColorTint" 			"[1 0.5 0.4]" // RED
+}
+
